@@ -14,3 +14,7 @@ Repository for frequently used development related urls
 ### Release notes
 
 * [Spring Boot 2.6](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.6-Release-Notes)
+
+## Axon
+
+* [Axon Initializr](https://start.axoniq.io/)
