@@ -22,3 +22,7 @@ Repository for frequently used development related urls
 ## Domain Driven design
 
 * [Welcome to Domain-Driven Design (DDD)](https://github.com/ddd-crew/welcome-to-ddd)
+
+## Public speaking
+
+* [TEDx: How to avoid death By PowerPoint - David JP Phillips](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
