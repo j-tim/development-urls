@@ -15,9 +15,17 @@ Repository for frequently used development related urls
 * [Spring Kafka - Kafka Client Compatibility](https://spring.io/projects/spring-kafka#kafka-client-compatibility)
 * [Confluent Platform and Apache Kafka Compatibility](https://docs.confluent.io/platform/current/installation/versions-interoperability.html)
 
+### Error handling
+
+* [Spring for Apache Kafka – Beyond the Basics: Can Your Kafka Consumers Handle a Poison Pill?](https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill/)
+
 ## Axon
 
 * [Axon Initializr](https://start.axoniq.io/)
+
+### Testing
+
+* [Test-First Development using Axon Framework](https://medium.com/digitalfrontiers/test-first-development-using-axon-framework-72f6d2a3d6f2)
 
 ## Domain Driven design
 
