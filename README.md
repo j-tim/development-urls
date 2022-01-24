@@ -19,7 +19,7 @@ Repository for frequently used development related urls
 
 #### Change Data Capture
 
-* [No More Silos: Integrating Databases and Apache Kafka](https://speakerdeck.com/rmoff/no-more-silos-integrating-databases-and-apache-kafka?)
+* [Robin Moffatt - No More Silos: Integrating Databases and Apache Kafka](https://speakerdeck.com/rmoff/no-more-silos-integrating-databases-and-apache-kafka?)
 
 ### Error handling
 
