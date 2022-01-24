@@ -36,6 +36,12 @@ Repository for frequently used development related urls
 * [Apicur](https://www.apicur.io/registry/)
 * [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/index.html)
 
+## Microservices Patterns
+
+### Outbox Pattern
+
+* [Gunnar Morling - Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
+
 ## Public speaking
 
 * [TEDx: How to avoid death By PowerPoint - David JP Phillips](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
