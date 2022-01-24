@@ -15,6 +15,12 @@ Repository for frequently used development related urls
 * [Spring Kafka - Kafka Client Compatibility](https://spring.io/projects/spring-kafka#kafka-client-compatibility)
 * [Confluent Platform and Apache Kafka Compatibility](https://docs.confluent.io/platform/current/installation/versions-interoperability.html)
 
+### Kafka Connect 
+
+#### Change Data Capture
+
+* [No More Silos: Integrating Databases and Apache Kafka](https://speakerdeck.com/rmoff/no-more-silos-integrating-databases-and-apache-kafka?)
+
 ### Error handling
 
 * [Spring for Apache Kafka – Beyond the Basics: Can Your Kafka Consumers Handle a Poison Pill?](https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill/)
