@@ -37,6 +37,10 @@ Repository for frequently used development related urls
 
 * [Welcome to Domain-Driven Design (DDD)](https://github.com/ddd-crew/welcome-to-ddd)
 
+### Examples
+
+* [DDD with Spring](https://github.com/mploed/ddd-with-spring)
+
 ## Schema Registries
 
 * [Apicur](https://www.apicur.io/registry/)
