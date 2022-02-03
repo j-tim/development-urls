@@ -56,6 +56,12 @@ Repository for frequently used development related urls
 
 * [Gunnar Morling - Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
 
+## Databases
+
+### Oracle
+
+[Oracle Database Express Edition Container](https://hub.docker.com/r/gvenzl/oracle-xe)
+
 ## Public speaking
 
 * [TEDx: How to avoid death By PowerPoint - David JP Phillips](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
