@@ -68,6 +68,12 @@ Repository for frequently used development related urls
 
 [Oracle Database Express Edition Container](https://hub.docker.com/r/gvenzl/oracle-xe)
 
+## Database migration tools
+
+### Flyway
+
+* [Flyway schema versioning](https://flywaydb.org/documentation/concepts/migrations.html#naming)
+
 ## Public speaking
 
 * [TEDx: How to avoid death By PowerPoint - David JP Phillips](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
