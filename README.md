@@ -14,6 +14,12 @@ Repository for frequently used development related urls
 
 * [Spring Cloud release train - Spring Boot compatibility overview](https://spring.io/projects/spring-cloud#adding-spring-cloud-to-an-existing-spring-boot-application)
 
+## Spring Data JPA
+
+### Optimistic locking
+
+* [Testing Optimistic Locking Handling with Spring Boot and JPA](https://blog.mimacom.com/testing-optimistic-locking-handling-spring-boot-jpa/)
+
 ## Apache Kafka
 
 * [Spring Kafka - Kafka Client Compatibility](https://spring.io/projects/spring-kafka#kafka-client-compatibility)
