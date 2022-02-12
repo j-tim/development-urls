@@ -51,6 +51,13 @@ Repository for frequently used development related urls
 
 * [DDD with Spring](https://github.com/mploed/ddd-with-spring)
 
+## Static Application Security Testing (SAST)
+
+* [Snyk.io](https://snyk.io/)
+* [Gitlab Sast](https://docs.gitlab.com/ee/user/application_security/sast/)
+* [Semgrep](https://semgrep.dev/)
+
+
 ## Schema Registries
 
 * [Apicur](https://www.apicur.io/registry/)
