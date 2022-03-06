@@ -88,7 +88,7 @@ Repository for frequently used development related urls
 * [Documentation](https://www.archunit.org/userguide/html/000_Index.html#_what_to_check)
 * [Improving Java’s Visibility Modifiers with ArchUnit](https://4comprehension.com/improving-java-visibility-modifiers/)
 * [Unit Test Your Architecture with ArchUnit](https://blogs.oracle.com/javamagazine/post/unit-test-your-architecture-with-archunit)
-
+* [Archunit: Validate the architecture of our projects](https://dev.to/andressacco/archunit-validate-the-architecture-of-our-projects-3hc9)
 
 ## Public speaking
 
