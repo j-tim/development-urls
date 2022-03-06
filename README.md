@@ -81,6 +81,15 @@ Repository for frequently used development related urls
 
 * [Flyway schema versioning](https://flywaydb.org/documentation/concepts/migrations.html#naming)
 
+## Testing
+
+### ArchUnit
+
+* [Documentation](https://www.archunit.org/userguide/html/000_Index.html#_what_to_check)
+* [Improving Java’s Visibility Modifiers with ArchUnit](https://4comprehension.com/improving-java-visibility-modifiers/)
+* [Unit Test Your Architecture with ArchUnit](https://blogs.oracle.com/javamagazine/post/unit-test-your-architecture-with-archunit)
+
+
 ## Public speaking
 
 * [TEDx: How to avoid death By PowerPoint - David JP Phillips](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
