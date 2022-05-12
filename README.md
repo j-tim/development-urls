@@ -20,6 +20,13 @@ Repository for frequently used development related urls
 
 * [Testing Optimistic Locking Handling with Spring Boot and JPA](https://blog.mimacom.com/testing-optimistic-locking-handling-spring-boot-jpa/)
 
+## Rest API
+
+### Design & Best Practices
+
+* [AWS CTO Werner Vogels’ 6 API Design Best Practices](https://nordicapis.com/aws-cto-werner-vogels-6-api-design-best-practices/)
+
+
 ## Apache Kafka
 
 * [Spring Kafka - Kafka Client Compatibility](https://spring.io/projects/spring-kafka#kafka-client-compatibility)
