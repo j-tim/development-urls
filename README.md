@@ -46,6 +46,12 @@ Repository for frequently used development related urls
 
 * [Axon Initializr](https://start.axoniq.io/)
 
+### Examples
+
+* [Axon Hotel Demo](https://github.com/AxonIQ/hotel-demo)
+* [Axon statemachine demo](https://github.com/idugalic/axon-statemachine-demo)
+
+
 ### Testing
 
 * [Test-First Development using Axon Framework](https://medium.com/digitalfrontiers/test-first-development-using-axon-framework-72f6d2a3d6f2)
