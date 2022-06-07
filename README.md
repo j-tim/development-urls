@@ -78,6 +78,10 @@ Repository for frequently used development related urls
 
 ## Databases
 
+### H2
+
+[H2 Keywords](https://h2database.com/html/advanced.html#keywords)
+
 ### Oracle
 
 [Oracle Database Express Edition Container](https://hub.docker.com/r/gvenzl/oracle-xe)
