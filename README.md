@@ -20,6 +20,10 @@ Repository for frequently used development related urls
 
 * [Testing Optimistic Locking Handling with Spring Boot and JPA](https://blog.mimacom.com/testing-optimistic-locking-handling-spring-boot-jpa/)
 
+## Spring Security
+
+* [Spring Security workshop](https://github.com/andifalk/microservices-auth-authz-spring-security)
+
 ## Rest API
 
 ### Design & Best Practices
