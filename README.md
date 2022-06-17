@@ -116,3 +116,11 @@ Repository for frequently used development related urls
 ## Public speaking
 
 * [TEDx: How to avoid death By PowerPoint - David JP Phillips](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
+
+## Template engines 
+
+### Thymeleaf 
+
+#### Examples 
+
+[Thymeleaf Examples: Good Thymes Virtual Grocery](https://github.com/thymeleaf/thymeleafexamples-gtvg)
