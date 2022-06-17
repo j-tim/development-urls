@@ -121,6 +121,8 @@ Repository for frequently used development related urls
 
 ### Thymeleaf 
 
+[Thymeleaf](www.thymeleaf.org)
+
 #### Examples 
 
 [Thymeleaf Examples: Good Thymes Virtual Grocery](https://github.com/thymeleaf/thymeleafexamples-gtvg)
