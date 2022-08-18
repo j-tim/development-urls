@@ -35,6 +35,7 @@ Repository for frequently used development related urls
 
 * [Spring Kafka - Kafka Client Compatibility](https://spring.io/projects/spring-kafka#kafka-client-compatibility)
 * [Confluent Platform and Apache Kafka Compatibility](https://docs.confluent.io/platform/current/installation/versions-interoperability.html)
+* [Confluent Developer Courses - Introduction to Kafka Security](https://developer.confluent.io/learn-kafka/security/)
 
 ### Kafka Connect 
 
