@@ -97,6 +97,7 @@ Repository for frequently used development related urls
 
 * [Oracle Database Express Edition Container](https://hub.docker.com/r/gvenzl/oracle-xe)
 * [Developers Guide For Oracle JDBC 21c on Maven Central](https://www.oracle.com/database/technologies/maven-central-guide.html)
+* [Oracle Database JDBC driver and Companion Jars Downloads](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html)
 
 ## Database migration tools
 
