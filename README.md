@@ -62,6 +62,10 @@ Repository for frequently used development related urls
 
 * [Test-First Development using Axon Framework](https://medium.com/digitalfrontiers/test-first-development-using-axon-framework-72f6d2a3d6f2)
 
+### Academy
+
+* [Axon Academy](https://academy.axoniq.io/)
+
 ## Domain Driven design
 
 * [Welcome to Domain-Driven Design (DDD)](https://github.com/ddd-crew/welcome-to-ddd)
