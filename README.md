@@ -103,6 +103,7 @@ Repository for frequently used development related urls
 * [Oracle Database Express Edition Container](https://hub.docker.com/r/gvenzl/oracle-xe)
 * [Developers Guide For Oracle JDBC 21c on Maven Central](https://www.oracle.com/database/technologies/maven-central-guide.html)
 * [Oracle Database JDBC driver and Companion Jars Downloads](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html)
+* [Running Oracle XE with TestContainers on Apple Silicon](https://blog.jdriven.com/2022/07/running-oracle-xe-with-testcontainers-on-apple-silicon/)
 
 ## Database migration tools
 
@@ -140,3 +141,7 @@ Repository for frequently used development related urls
 ### Networking
 
 * [Docker Networking Trouble-shooting Swiss-Army Container](https://hub.docker.com/r/nicolaka/netshoot)
+
+## Apple Apple Silicon (M1)
+
+* [Colima - container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
