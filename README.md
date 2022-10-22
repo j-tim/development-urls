@@ -58,6 +58,9 @@ Repository for frequently used development related urls
 * [Axon Giftcard Demp](https://github.com/AxonIQ/giftcard-demo)
 * [Axon Query dispatching example](https://github.com/eugenp/tutorials/tree/master/axon)
 
+###
+
+* [Set Based Consistency Validation](https://developer.axoniq.io/w/set-based-consistency-validation)
 
 ### Testing
 
