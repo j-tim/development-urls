@@ -37,6 +37,10 @@ Repository for frequently used development related urls
 * [Confluent Platform and Apache Kafka Compatibility](https://docs.confluent.io/platform/current/installation/versions-interoperability.html)
 * [Confluent Developer Courses - Introduction to Kafka Security](https://developer.confluent.io/learn-kafka/security/)
 
+### Monitoring
+
+* [Confluent JMX monitoring stacks](https://github.com/confluentinc/jmx-monitoring-stacks)
+
 ### Kafka Connect 
 
 #### Change Data Capture
