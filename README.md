@@ -94,6 +94,10 @@ Repository for frequently used development related urls
 * [Apicur](https://www.apicur.io/registry/)
 * [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/index.html)
 
+### Confluent Schema Registry
+
+* [Unit test Avro schema compatibility](https://github.com/confluentinc/schema-registry/blob/master/core/src/test/java/io/confluent/kafka/schemaregistry/avro/AvroCompatibilityTest.java)
+
 ## Microservices Patterns
 
 ### Outbox Pattern
