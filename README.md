@@ -8,6 +8,7 @@ Repository for frequently used development related urls
 
 ### Release notes
 
+* [Spring Boot 2.7](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes)
 * [Spring Boot 2.6](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.6-Release-Notes)
 
 ## Spring Cloud
