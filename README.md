@@ -91,8 +91,10 @@ Repository for frequently used development related urls
 
 ## Schema Registries
 
-* [Apicur](https://www.apicur.io/registry/)
 * [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/index.html)
+* [Karapace Schema Registry](https://karapace.io/)
+* [Apicur](https://www.apicur.io/registry/)
+* [Spring Cloud Schema Registry](https://spring.io/projects/spring-cloud-schema-registry)
 
 ### Confluent Schema Registry
 
