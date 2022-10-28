@@ -156,6 +156,6 @@ Repository for frequently used development related urls
 
 * [Docker Networking Trouble-shooting Swiss-Army Container](https://hub.docker.com/r/nicolaka/netshoot)
 
-## Apple Apple Silicon (M1)
+## Apple Silicon (M1)
 
 * [Colima - container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
