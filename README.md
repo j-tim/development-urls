@@ -160,3 +160,7 @@ Repository for frequently used development related urls
 ## Apple Silicon (M1)
 
 * [Colima - container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
+
+## Profiling
+
+* [Pyroscope](https://pyroscope.io/)
