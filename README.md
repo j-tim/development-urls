@@ -25,6 +25,10 @@ Repository for frequently used development related urls
 
 * [Spring Security workshop](https://github.com/andifalk/microservices-auth-authz-spring-security)
 
+## Spring MVC
+
+* [Spring MVC Controleler - Redirect and DeleteMapping](https://stackoverflow.com/questions/24366069/redirect-from-method-with-http-delete-type-to-method-with-get-type)
+
 ## Rest API
 
 ### Design & Best Practices
