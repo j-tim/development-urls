@@ -20,7 +20,7 @@ Repository for frequently used development related urls
 
 ### Release notes
 
-[2022.0](https://github.com/spring-projects/spring-data-commons/wiki/Spring-Data-2022.0-%28Turing%29-Release-Notes)
+* [2022.0](https://github.com/spring-projects/spring-data-commons/wiki/Spring-Data-2022.0-%28Turing%29-Release-Notes)
 
 ## Spring Data JPA
 
