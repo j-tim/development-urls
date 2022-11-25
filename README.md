@@ -16,6 +16,12 @@ Repository for frequently used development related urls
 
 * [Spring Cloud release train - Spring Boot compatibility overview](https://spring.io/projects/spring-cloud#adding-spring-cloud-to-an-existing-spring-boot-application)
 
+## Spring Data 
+
+### Release notes
+
+[2022.0](https://github.com/spring-projects/spring-data-commons/wiki/Spring-Data-2022.0-%28Turing%29-Release-Notes)
+
 ## Spring Data JPA
 
 ### Optimistic locking
