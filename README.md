@@ -56,6 +56,8 @@ Repository for frequently used development related urls
 
 ### Kafka Connect 
 
+* [Kafka Connect](https://docs.confluent.io/platform/current/connect/index.html)
+
 * [Kafka Connect Source Configuration Properties for Confluent Platform](https://docs.confluent.io/platform/current/installation/configuration/connect/source-connect-configs.html#kconnect-long-source-configuration-properties-for-cp)
 
 * [JDBC Source Connector for Confluent Platform](https://docs.confluent.io/kafka-connectors/jdbc/current/source-connector/index.html#jdbc-source-connector-for-cp)
