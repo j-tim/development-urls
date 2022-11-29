@@ -58,6 +58,8 @@ Repository for frequently used development related urls
 
 * [Kafka Connect Source Configuration Properties for Confluent Platform](https://docs.confluent.io/platform/current/installation/configuration/connect/source-connect-configs.html#kconnect-long-source-configuration-properties-for-cp)
 
+* [JDBC Source Connector for Confluent Platform](https://docs.confluent.io/kafka-connectors/jdbc/current/source-connector/index.html#jdbc-source-connector-for-cp)
+
 #### Change Data Capture
 
 * [Robin Moffatt - No More Silos: Integrating Databases and Apache Kafka](https://speakerdeck.com/rmoff/no-more-silos-integrating-databases-and-apache-kafka?)
