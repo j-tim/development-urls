@@ -63,6 +63,10 @@ Repository for frequently used development related urls
 
 * [Spring for Apache Kafka – Beyond the Basics: Can Your Kafka Consumers Handle a Poison Pill?](https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill/)
 
+### Kafka Ops
+
+* [JulieOps - An operational manager for Apache Kafka](https://github.com/kafka-ops/julie)
+
 ## Axon
 
 * [Axon Initializr](https://start.axoniq.io/)
