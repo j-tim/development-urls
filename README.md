@@ -63,6 +63,10 @@ Repository for frequently used development related urls
 
 * [JDBC Source Connector for Confluent Platform](https://docs.confluent.io/kafka-connectors/jdbc/current/source-connector/index.html#jdbc-source-connector-for-cp)
 
+### Exactly-Once Semantics
+
+* [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+
 #### Change Data Capture
 
 * [Robin Moffatt - No More Silos: Integrating Databases and Apache Kafka](https://speakerdeck.com/rmoff/no-more-silos-integrating-databases-and-apache-kafka?)
