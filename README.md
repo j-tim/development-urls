@@ -63,6 +63,12 @@ Repository for frequently used development related urls
 
 * [JDBC Source Connector for Confluent Platform](https://docs.confluent.io/kafka-connectors/jdbc/current/source-connector/index.html#jdbc-source-connector-for-cp)
 
+#### Kafka Connect Datagen 
+
+* [Sources Github](https://github.com/confluentinc/kafka-connect-datagen)
+* [Avro Random Generator](https://github.com/confluentinc/avro-random-generator)
+* [Avro Random Generator - Examples](https://github.com/confluentinc/kafka-connect-datagen/tree/master/src/main/resources)
+
 ### Exactly-Once Semantics
 
 * [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
