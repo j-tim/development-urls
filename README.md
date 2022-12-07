@@ -65,6 +65,7 @@ Repository for frequently used development related urls
 
 #### Kafka Connect Datagen 
 
+* [Confluent Hub](https://www.confluent.io/hub/confluentinc/kafka-connect-datagen)
 * [Sources Github](https://github.com/confluentinc/kafka-connect-datagen)
 * [Avro Random Generator](https://github.com/confluentinc/avro-random-generator)
 * [Avro Random Generator - Examples](https://github.com/confluentinc/kafka-connect-datagen/tree/master/src/main/resources)
