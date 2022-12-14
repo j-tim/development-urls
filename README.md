@@ -12,6 +12,15 @@ Repository for frequently used development related urls
 * [Spring Boot 2.7](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes)
 * [Spring Boot 2.6](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.6-Release-Notes)
 
+### Testing
+
+#### Email
+
+* GreenMail
+  * [Github](https://github.com/greenmail-mail-test/greenmail)
+  * [Dockerhub](https://hub.docker.com/r/greenmail/standalone)
+  * [Greenmail JUnit5](https://mvnrepository.com/artifact/com.icegreen/greenmail-junit5)
+
 ## Spring Cloud
 
 * [Spring Cloud release train - Spring Boot compatibility overview](https://spring.io/projects/spring-cloud#adding-spring-cloud-to-an-existing-spring-boot-application)
