@@ -14,6 +14,10 @@ Repository for frequently used development related urls
 
 ### Testing
 
+#### Spring Boot Test slices
+
+* [Structure @Configuration classes for inclusion in slice tests](https://docs.spring.io/spring-boot/docs/2.7.x/reference/html/howto.html#howto.testing.slice-tests)
+
 #### Email
 
 * GreenMail
