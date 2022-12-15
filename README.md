@@ -39,6 +39,12 @@ Repository for frequently used development related urls
 
 ## Spring Security
 
+### Testing
+
+* [Migrating From WebSecurityConfigurerAdapter to SecurityFilterChain in combination with @WebMvcTest](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes#migrating-from-websecurityconfigureradapter-to-securityfilterchain)
+
+### Example repos
+
 * [Spring Security workshop](https://github.com/andifalk/microservices-auth-authz-spring-security)
 
 ## Spring MVC
