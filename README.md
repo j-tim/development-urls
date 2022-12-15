@@ -78,6 +78,7 @@ Repository for frequently used development related urls
 * [Sources Github](https://github.com/confluentinc/kafka-connect-datagen)
 * [Avro Random Generator](https://github.com/confluentinc/avro-random-generator)
 * [Avro Random Generator - Examples](https://github.com/confluentinc/kafka-connect-datagen/tree/master/src/main/resources)
+* [Quickstart Kafka Connect Configuration examples](https://github.com/confluentinc/kafka-connect-datagen/tree/master/config)
 
 ### Exactly-Once Semantics
 
@@ -103,7 +104,7 @@ Repository for frequently used development related urls
 
 * [Axon Hotel Demo](https://github.com/AxonIQ/hotel-demo)
 * [Axon statemachine demo](https://github.com/idugalic/axon-statemachine-demo)
-* [Axon Giftcard Demp](https://github.com/AxonIQ/giftcard-demo)
+* [Axon Giftcard Demo](https://github.com/AxonIQ/giftcard-demo)
 * [Axon Query dispatching example](https://github.com/eugenp/tutorials/tree/master/axon)
 
 ###
