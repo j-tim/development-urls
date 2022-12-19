@@ -92,7 +92,7 @@ Repository for frequently used development related urls
 
 ### Exactly-Once Semantics
 
-* [Exactly-Once Semantics Are Possible: Here’s How Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+* [Exactly-Once Semantics Are Possible: Here’s Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 
 #### Change Data Capture
 
@@ -116,6 +116,10 @@ Repository for frequently used development related urls
 * [Axon statemachine demo](https://github.com/idugalic/axon-statemachine-demo)
 * [Axon Giftcard Demo](https://github.com/AxonIQ/giftcard-demo)
 * [Axon Query dispatching example](https://github.com/eugenp/tutorials/tree/master/axon)
+
+### Axon vs Kafka
+
+* [Gerard Klijs - How dumb do you want your pipes?](https://developer.axoniq.io/w/how-dumb-do-you-want-your-pipes)
 
 ###
 
