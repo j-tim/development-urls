@@ -121,7 +121,7 @@ Repository for frequently used development related urls
 
 * [Gerard Klijs - How dumb do you want your pipes?](https://developer.axoniq.io/w/how-dumb-do-you-want-your-pipes)
 
-###
+### Validation
 
 * [Set Based Consistency Validation](https://developer.axoniq.io/w/set-based-consistency-validation)
 
