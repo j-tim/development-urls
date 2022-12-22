@@ -90,6 +90,10 @@ Repository for frequently used development related urls
 * [Avro Random Generator - Examples](https://github.com/confluentinc/kafka-connect-datagen/tree/master/src/main/resources)
 * [Quickstart Kafka Connect Configuration examples](https://github.com/confluentinc/kafka-connect-datagen/tree/master/config)
 
+#### Kafka Connect JDBC Aiven
+
+*[Aiven's JDBC Sink and Source Connectors for Apache Kafka](https://github.com/aiven/jdbc-connector-for-apache-kafka)
+
 ### Exactly-Once Semantics
 
 * [Exactly-Once Semantics Are Possible: Here’s Kafka Does It](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
