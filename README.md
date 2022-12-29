@@ -120,6 +120,7 @@ Repository for frequently used development related urls
 * [Axon statemachine demo](https://github.com/idugalic/axon-statemachine-demo)
 * [Axon Giftcard Demo](https://github.com/AxonIQ/giftcard-demo)
 * [Axon Query dispatching example](https://github.com/eugenp/tutorials/tree/master/axon)
+* [Video Series App](https://github.com/jesperancinha/video-series-app)
 
 ### Axon vs Kafka
 
