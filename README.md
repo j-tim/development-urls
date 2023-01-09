@@ -227,3 +227,7 @@ Repository for frequently used development related urls
 ## Profiling
 
 * [Pyroscope](https://pyroscope.io/)
+
+## Automated Source Code refactoring
+
+* [Openrewrite](https://docs.openrewrite.org/reference/recipes/java/spring/boot3)
