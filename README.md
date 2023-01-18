@@ -231,3 +231,7 @@ Repository for frequently used development related urls
 ## Automated Source Code refactoring
 
 * [Openrewrite](https://docs.openrewrite.org/reference/recipes/java/spring/boot3)
+
+## Favicon generators
+
+* [https://favicon.io/](https://favicon.io/)
