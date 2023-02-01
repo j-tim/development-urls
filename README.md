@@ -244,3 +244,4 @@ Repository for frequently used development related urls
 
 * [Maven Build Scanner](https://github.com/intuit/maven-build-scanner)
 * [Maven Checkstyle plugin](https://maven.apache.org/plugins/maven-checkstyle-plugin/)
+* [EditorConfig Maven Plugin](https://ec4j.github.io/editorconfig-maven-plugin/)
