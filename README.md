@@ -237,3 +237,9 @@ Repository for frequently used development related urls
 ## Favicon generators
 
 * [https://favicon.io/](https://favicon.io/)
+
+## Maven
+
+### Plugins
+
+* [Maven Build Scanner](https://github.com/intuit/maven-build-scanner)
