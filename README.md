@@ -243,3 +243,4 @@ Repository for frequently used development related urls
 ### Plugins
 
 * [Maven Build Scanner](https://github.com/intuit/maven-build-scanner)
+* [Maven Checkstyle plugin](https://maven.apache.org/plugins/maven-checkstyle-plugin/)
