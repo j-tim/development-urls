@@ -116,6 +116,10 @@ Repository for frequently used development related urls
 
 * [Axon Initializr](https://start.axoniq.io/)
 
+###
+
+[Upgrade to Axon Framework 4.7](https://developer.axoniq.io/w/upgrading-to-axon-framework-4.7)
+
 ### Examples
 
 * [Axon Hotel Demo](https://github.com/AxonIQ/hotel-demo)
