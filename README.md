@@ -84,6 +84,10 @@ Repository for frequently used development related urls
 
 * [JDBC Source Connector for Confluent Platform](https://docs.confluent.io/kafka-connectors/jdbc/current/source-connector/index.html#jdbc-source-connector-for-cp)
 
+#### CLI
+
+[kcctl – Your Cuddly CLI for Apache Kafka Connect](https://github.com/kcctl/kcctl)
+
 #### Kafka Connect Datagen 
 
 * [Confluent Hub](https://www.confluent.io/hub/confluentinc/kafka-connect-datagen)
