@@ -29,6 +29,12 @@ Repository for frequently used development related urls
 
 * [Spring Cloud release train - Spring Boot compatibility overview](https://spring.io/projects/spring-cloud#adding-spring-cloud-to-an-existing-spring-boot-application)
 
+### Release notes
+
+* [2022.0 (code name: Kilburn)](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2022.0-Release-Notes)
+* [2021.0 (code name: Jubilee)](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2021.0-Release-Notes)
+* [2020.0 (code name: Ilford)](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2020.0-Release-Notes)
+
 ## Spring Data 
 
 ### Release notes
