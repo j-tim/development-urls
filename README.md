@@ -122,6 +122,10 @@ Repository for frequently used development related urls
 
 * [JulieOps - An operational manager for Apache Kafka](https://github.com/kafka-ops/julie)
 
+### Kafka Connect Config Providers
+
+* [Lenses.io - Secret Provider](https://github.com/lensesio/secret-provider)
+
 ## Axon
 
 * [Axon Initializr](https://start.axoniq.io/)
