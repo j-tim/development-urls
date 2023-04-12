@@ -78,6 +78,10 @@ Repository for frequently used development related urls
 * [Confluent Platform and Apache Kafka Compatibility](https://docs.confluent.io/platform/current/installation/versions-interoperability.html)
 * [Confluent Developer Courses - Introduction to Kafka Security](https://developer.confluent.io/learn-kafka/security/)
 
+### Consumer group
+
+* [Consumer Group Protocol](https://developer.confluent.io/learn-kafka/architecture/consumer-group-protocol/)
+
 ### Monitoring
 
 * [Monitoring Kafka](https://docs.confluent.io/platform/current/kafka/monitoring.html)
