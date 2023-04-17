@@ -25,7 +25,7 @@ Repository for frequently used development related urls
   * [Dockerhub](https://hub.docker.com/r/greenmail/standalone)
   * [Greenmail JUnit5](https://mvnrepository.com/artifact/com.icegreen/greenmail-junit5)
 
-#### 
+#### Automating test data
 
 * [Instancio - A Java library for automating data setup in unit tests](https://www.instancio.org/)
 
@@ -114,7 +114,7 @@ Repository for frequently used development related urls
 
 #### Kafka Connect JDBC Aiven
 
-*[Aiven's JDBC Sink and Source Connectors for Apache Kafka](https://github.com/aiven/jdbc-connector-for-apache-kafka)
+* [Aiven's JDBC Sink and Source Connectors for Apache Kafka](https://github.com/aiven/jdbc-connector-for-apache-kafka)
 
 ### Exactly-Once Semantics
 
