@@ -25,6 +25,10 @@ Repository for frequently used development related urls
   * [Dockerhub](https://hub.docker.com/r/greenmail/standalone)
   * [Greenmail JUnit5](https://mvnrepository.com/artifact/com.icegreen/greenmail-junit5)
 
+#### 
+
+* [Instancio - A Java library for automating data setup in unit tests](https://www.instancio.org/)
+
 ## Spring Cloud
 
 * [Spring Cloud release train - Spring Boot compatibility overview](https://spring.io/projects/spring-cloud#adding-spring-cloud-to-an-existing-spring-boot-application)
