@@ -277,3 +277,7 @@ Repository for frequently used development related urls
 ## Development portals
 
 [Backstage - An open platform for building developer portals](https://backstage.io/)
+
+## Feature toggles
+
+* [Openfeature](https://openfeature.dev/)
