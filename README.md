@@ -90,6 +90,7 @@ Repository for frequently used development related urls
 
 * [Monitoring Kafka](https://docs.confluent.io/platform/current/kafka/monitoring.html)
 * [Confluent JMX monitoring stacks](https://github.com/confluentinc/jmx-monitoring-stacks)
+* [Kafka Monitor Linkedin](https://github.com/linkedin/kafka-monitor)
 
 ### Kafka Connect 
 
