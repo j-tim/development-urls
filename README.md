@@ -282,3 +282,7 @@ Repository for frequently used development related urls
 ## Feature toggles
 
 * [Openfeature](https://openfeature.dev/)
+
+## Open Telemetry
+
+* [Open Telemetry - Java instrumentation releases](https://github.com/open-telemetry/opentelemetry-java#releases)
