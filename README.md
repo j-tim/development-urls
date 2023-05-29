@@ -75,6 +75,9 @@ Repository for frequently used development related urls
 
 * [AWS CTO Werner Vogels’ 6 API Design Best Practices](https://nordicapis.com/aws-cto-werner-vogels-6-api-design-best-practices/)
 
+## JPA
+
+* [Java Persistence - Wikibooks](https://en.wikibooks.org/wiki/Java_Persistence)
 
 ## Apache Kafka
 
