@@ -35,6 +35,7 @@ Repository for frequently used development related urls
 
 ### Release notes
 
+* [2022.0.3](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2022.0-Release-Notes#202203)
 * [2022.0.2](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2022.0-Release-Notes#202202)
 * [2022.0.1](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2022.0-Release-Notes#202201)
 * [2022.0 (code name: Kilburn)](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2022.0-Release-Notes)
