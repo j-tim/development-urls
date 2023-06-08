@@ -279,6 +279,12 @@ Repository for frequently used development related urls
 * [Maven Checkstyle plugin](https://maven.apache.org/plugins/maven-checkstyle-plugin/)
 * [EditorConfig Maven Plugin](https://ec4j.github.io/editorconfig-maven-plugin/)
 
+### Repositories
+
+* [Maven Central](https://repo1.maven.org/maven2/)
+* [Confluent Maven Repository](https://packages.confluent.io/)
+* [Oracle Maven Repository](https://www.oracle.com/webfolder/application/maven/index.html)
+
 ## Development portals
 
 [Backstage - An open platform for building developer portals](https://backstage.io/)
