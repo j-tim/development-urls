@@ -302,3 +302,9 @@ Repository for frequently used development related urls
 
 * [artifacthub.io - Find, install and publish
 Kubernetes packages](https://artifacthub.io/)
+
+## Documentation
+
+### Markdown
+
+*[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
