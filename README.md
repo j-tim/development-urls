@@ -308,3 +308,7 @@ Kubernetes packages](https://artifacthub.io/)
 ### Markdown
 
 *[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+
+## Confluent
+
+[confluent-platform (ce) vs confluent-community (ccs)](https://docs.confluent.io/platform/current/installation/available_packages.html#platform-packages)
