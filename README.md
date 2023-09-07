@@ -1,6 +1,11 @@
 # Development urls
 
-Repository for frequently used development related urls
+Repository for frequently used development-related URLs
+
+## Spring Framework
+
+* [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/index.html)
+* [Spring Academy](https://spring.academy/)
 
 ## Spring Boot
 
