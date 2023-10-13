@@ -2,6 +2,13 @@
 
 Repository for frequently used development-related URLs
 
+## Spring
+
+* [Spring Initializr](https://start.spring.io/)
+* [Spring Release Calander](https://calendar.spring.io/)
+* [Spring Releases](https://spring.io/blog/category/releases/)
+* [Spring Blog](https://spring.io/blog/)
+
 ## Spring Framework
 
 * [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/index.html)
