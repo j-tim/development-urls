@@ -330,3 +330,10 @@ Kubernetes packages](https://artifacthub.io/)
 ## Git 
 
 * [Powerlevel10k - theme for Zsh ](https://github.com/romkatv/powerlevel10k)
+
+## Azure 
+
+### Azure Pipelines
+
+* [Microsoft Self hosted agents](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=yaml)
+  * [Ubuntu 22.04 image - Pre installed software](https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md)  
