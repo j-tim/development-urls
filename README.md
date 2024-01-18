@@ -20,6 +20,7 @@ Repository for frequently used development-related URLs
 
 ### Release notes
 
+* [Spring Boot 3.2](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.2-Release-Notes)
 * [Spring Boot 3.1](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.1-Release-Notes)
 * [Spring Boot 3.0](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Release-Notes)
 * [Spring Boot 2.7](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes)
