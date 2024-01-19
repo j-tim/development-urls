@@ -121,6 +121,11 @@ Repository for frequently used development-related URLs
 
 * [JDBC Source Connector for Confluent Platform](https://docs.confluent.io/kafka-connectors/jdbc/current/source-connector/index.html#jdbc-source-connector-for-cp)
 
+### Serializers
+
+* [Kafka Avro Serializer](https://docs.confluent.io/platform/current/schema-registry/fundamentals/serdes-develop/serdes-avro.html)
+* [Jackson Kafka Avro serializer](https://github.com/productboardlabs/jackson-kafka-avro-serializer)
+
 #### CLI
 
 [kcctl – Your Cuddly CLI for Apache Kafka Connect](https://github.com/kcctl/kcctl)
