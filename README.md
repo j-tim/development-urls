@@ -342,4 +342,12 @@ Kubernetes packages](https://artifacthub.io/)
 ### Azure Pipelines
 
 * [Microsoft Self hosted agents](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=yaml)
-  * [Ubuntu 22.04 image - Pre installed software](https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md)  
+  * [Ubuntu 22.04 image - Pre installed software](https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md)
+
+## Jetbrains
+
+### IntelliJ 
+
+* [IntelliJ http-examples](https://ijhttp-examples.jetbrains.com/)
+
+
