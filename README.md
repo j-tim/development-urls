@@ -105,6 +105,10 @@ Repository for frequently used development-related URLs
 ## Confluent Kafka
 
 * [Confluent Docker images](https://docs.confluent.io/platform/current/installation/docker/image-reference.html)
+
+### Releases
+
+* [3.7.x](https://www.confluent.io/blog/introducing-apache-kafka-3-7/)
   
 ### Consumer group
 
