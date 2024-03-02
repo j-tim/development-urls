@@ -102,13 +102,13 @@ Repository for frequently used development-related URLs
 * [Confluent Developer Courses - Introduction to Kafka Security](https://developer.confluent.io/learn-kafka/security/)
 * [EventStreaming Patterns](https://developer.confluent.io/patterns/)
 
-## Confluent Kafka
-
-* [Confluent Docker images](https://docs.confluent.io/platform/current/installation/docker/image-reference.html)
-
 ### Releases
 
 * [3.7.x](https://www.confluent.io/blog/introducing-apache-kafka-3-7/)
+
+## Confluent Kafka
+
+* [Confluent Docker images](https://docs.confluent.io/platform/current/installation/docker/image-reference.html)
   
 ### Consumer group
 
