@@ -104,8 +104,8 @@ Repository for frequently used development-related URLs
 
 ### Metrics
 
-* [Client side Producer metrics](https://kafka.apache.org/32/generated/producer_metrics.html)
-* [Client side Consumer metrics](https://kafka.apache.org/32/generated/consumer_metrics.html)
+* [Client side Producer metrics](https://kafka.apache.org/37/generated/producer_metrics.html)
+* [Client side Consumer metrics](https://kafka.apache.org/37/generated/consumer_metrics.html)
 
 ### Releases
 
