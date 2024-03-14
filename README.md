@@ -102,6 +102,11 @@ Repository for frequently used development-related URLs
 * [Confluent Developer Courses - Introduction to Kafka Security](https://developer.confluent.io/learn-kafka/security/)
 * [EventStreaming Patterns](https://developer.confluent.io/patterns/)
 
+### Metrics
+
+* [Client side Producer metrics](https://kafka.apache.org/32/generated/producer_metrics.html)
+* [Client side Consumer metrics](https://kafka.apache.org/32/generated/consumer_metrics.html)
+
 ### Releases
 
 * [3.7.x](https://www.confluent.io/blog/introducing-apache-kafka-3-7/)
