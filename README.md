@@ -368,4 +368,10 @@ Kubernetes packages](https://artifacthub.io/)
 
 * [IntelliJ http-examples](https://ijhttp-examples.jetbrains.com/)
 
+## Chaos Engineering
+
+### Proxies
+
+[Toxiproxy](https://github.com/Shopify/toxiproxy)
+
 
