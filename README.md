@@ -41,7 +41,10 @@ Repository for frequently used development-related URLs
 
 #### Automating test data
 
+##### 
+
 * [Instancio - A Java library for automating data setup in unit tests](https://www.instancio.org/)
+* [Instancio - JPA extension](https://github.com/Mobe91/instancio-jpa)
 
 ## Spring Cloud
 
