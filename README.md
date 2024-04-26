@@ -374,4 +374,10 @@ Kubernetes packages](https://artifacthub.io/)
 
 [Toxiproxy](https://github.com/Shopify/toxiproxy)
 
+## Micrometer
+
+* [Micrometer.io](https://micrometer.io/)
+* [Datasource Micrometer](https://jdbc-observations.github.io/datasource-micrometer/docs/current/docs/html/#legal)
+
+
 
