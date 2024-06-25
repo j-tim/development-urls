@@ -216,6 +216,10 @@ Repository for frequently used development-related URLs
 
 * [Welcome to Domain-Driven Design (DDD)](https://github.com/ddd-crew/welcome-to-ddd)
 
+### Java frameworks 
+
+* [jMolecules – Architectural abstractions for Java](https://github.com/xmolecules/jmolecules)
+
 ### Examples
 
 * [DDD with Spring](https://github.com/mploed/ddd-with-spring)
