@@ -387,6 +387,12 @@ Kubernetes packages](https://artifacthub.io/)
 
 * [Micrometer.io](https://micrometer.io/)
 * [Datasource Micrometer](https://jdbc-observations.github.io/datasource-micrometer/docs/current/docs/html/#legal)
+ 
+## Command line tools to put load to a web application
+
+* [hey](https://github.com/rakyll/hey)
+* [Apache Benchmark](https://httpd.apache.org/docs/2.4/programs/ab.html)
+
 
 
 
