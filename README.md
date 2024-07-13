@@ -393,6 +393,9 @@ Kubernetes packages](https://artifacthub.io/)
 * [hey](https://github.com/rakyll/hey)
 * [Apache Benchmark](https://httpd.apache.org/docs/2.4/programs/ab.html)
 
+## CQRS
+
+* [Set Based Validation](https://danielwhittaker.me/2017/10/09/handle-set-based-consistency-validation-cqrs/)
 
 
 
