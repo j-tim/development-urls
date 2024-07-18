@@ -112,6 +112,11 @@ Repository for frequently used development-related URLs
 * [Confluent Developer Courses - Introduction to Kafka Security](https://developer.confluent.io/learn-kafka/security/)
 * [EventStreaming Patterns](https://developer.confluent.io/patterns/)
 
+### Kafka proxies
+
+* [Kroxylicious](https://kroxylicious.io/)
+* [Conduktor Gateway](https://docs.conduktor.io/gateway/)
+
 ### Metrics
 
 * [Client side Producer metrics](https://kafka.apache.org/37/generated/producer_metrics.html)
