@@ -401,6 +401,11 @@ Kubernetes packages](https://artifacthub.io/)
 ## CQRS
 
 * [Set Based Validation](https://danielwhittaker.me/2017/10/09/handle-set-based-consistency-validation-cqrs/)
+* 
+
+## IntelliJ 
+
+* [uao command - unzip your project and import to intellij automatically](https://gist.github.com/sgyyz/e6e41519b6f8700bd2cc4fc72adb3197)
 
 
 
