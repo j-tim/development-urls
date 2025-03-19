@@ -355,6 +355,10 @@ Repository for frequently used development-related URLs
 * [artifacthub.io - Find, install and publish
 Kubernetes packages](https://artifacthub.io/)
 
+### Carvel
+
+[https://carvel.dev/](https://carvel.dev/)
+
 ## Documentation
 
 ### Markdown
