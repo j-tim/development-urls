@@ -51,6 +51,11 @@ Repository for frequently used development-related URLs
 * [Instancio - A Java library for automating data setup in unit tests](https://www.instancio.org/)
 * [Instancio - JPA extension](https://github.com/Mobe91/instancio-jpa)
 
+## Spring AI
+
+* [Spring AI](https://spring.io/projects/spring-ai)
+* [Spring AI Community (Github)](https://github.com/spring-ai-community)
+
 ## Spring Cloud
 
 * [Spring Cloud release train - Spring Boot compatibility overview](https://spring.io/projects/spring-cloud#adding-spring-cloud-to-an-existing-spring-boot-application)
