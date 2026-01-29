@@ -328,7 +328,10 @@ https://docs.arconia.io/arconia/latest/index.html
 
 ## Automated Source Code refactoring
 
-* [Openrewrite](https://docs.openrewrite.org/reference/recipes/java/spring/boot3)
+* [OpenRewrite by Moderne](https://docs.openrewrite.org/reference/recipes/java/spring/boot3)
+* [Arconia Migrations](https://github.com/arconia-io/arconia-migrations)
+* [Broadcom Spring Application Advisor](https://techdocs.broadcom.com/us/en/vmware-tanzu/spring/application-advisor/1-5/app-advisor/what-is-app-advisor.html)
+* 
 
 ## Favicon generators
 
