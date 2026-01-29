@@ -63,6 +63,8 @@ Repository for frequently used development-related URLs
 
 ### Release notes
 
+* [2025.0](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2025.0-Release-Notes)
+  * [2025.0.1](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2025.0-Release-Notes#202501) 
 * [2023.0 (code name: Leyton)](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2023.0-Release-Notes)
   * [2023.0.1](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2023.0-Release-Notes#202301)
   * [2023.0.2](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2023.0-Release-Notes#202302)
